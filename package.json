@@ -1,8 +1,8 @@
 {
-  "name": "exam-dcard",
+  "name": "pre-exam-for-dcard",
   "version": "1.0.0",
-  "description": "an exam for dcard interview",
-  "main": "Ｑ1.js",
+  "description": "A little exam before Dcard interview",
+  "main": "visitorsComeAndGo.js",
   "scripts": {
     "test": "mocha"
   },
